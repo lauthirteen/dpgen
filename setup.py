@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+
+# add test
 from os import path
 from  dpgen import NAME,SHORT_CMD
 import setuptools, datetime
